@@ -28,8 +28,8 @@ para jun/22, Pesquisadora no Laboratório de Tecnologias Livres da Universidade
 Federal do ABC – LabLivre e divulgadora de Tecnologias Livres.
 
 baseurl: "/site-pessoal" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:  mirellef
 
 # Build settings
 theme: jekyll-theme-yat

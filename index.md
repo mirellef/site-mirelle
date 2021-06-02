@@ -7,7 +7,7 @@ layout: home
 
 <h1>Olá, aqui a gente edita!</h1>
 
-<p>Vamos colocar um HTML de exemplo aqui que as pessoas possam editar e colocar o que elas quiserem!</p>
+<p>Aqui colocamos varias coisas sobre a Mirelle?</p>
 
 <br>
 
