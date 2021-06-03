@@ -21,10 +21,8 @@
 title: Mirelle Freitas
 email: mirelle.adefreitas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Uma curiosa nata, engajada no aprendizado de novas tecnologias computacionais e soluções livres,
-  comprometida com novos desafios.
-  Graduanda em Ciência da Computação e Ciência e Tecnologia com formação prevista
-  para jun/22, Pesquisadora no Laboratório de Tecnologias Livres da Universidade
+  Uma curiosa nata, engajada no aprendizado de novas tecnologias computacionais e soluções livres,comprometida com novos desafios.
+  Graduanda em Ciência da Computação e Ciência e Tecnologia com formação prevista para jun/22, Pesquisadora no Laboratório de Tecnologias Livres da Universidade
   Federal do ABC – LabLivre e divulgadora de Tecnologias Livres.
 
 baseurl: "/site-mirelle" # the subpath of your site, e.g. /blog
